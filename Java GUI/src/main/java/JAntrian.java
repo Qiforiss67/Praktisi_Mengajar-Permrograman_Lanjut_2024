@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Fauzi Hisyam
+ * @
  */
 public class JAntrian extends javax.swing.JFrame {
 
